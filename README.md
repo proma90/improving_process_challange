@@ -1,5 +1,6 @@
-# improving_process_challange
-Data wrangling challenge and visualisation using Python
+# Improving Process Challange
+
+Data wrangling challenge and visualisation using Python.
 
 **Data source: as part of a challange, the data will not be share publicly, it can be requested if you want to recreate the analysis.**
 
